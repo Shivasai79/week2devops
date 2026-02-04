@@ -1,5 +1,7 @@
 package week2;
 
 public class TestClass {
-System.out.println("dhgfilusgfli")
+  public static void main(String[] args){
+    System.out.println("dhgfilusgfli")
+}
 }
